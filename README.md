@@ -16,13 +16,14 @@ style and naming scheme, using templates most of the time with type-traits.
 c++ is never, and will never be, an OOP language. c++ is always a
 multi-paradigm language, whose users can choose to use any technique of
 functional programming, object-oriented programming, meta programming
-and/or general programming etc. when it's appropriate. design patterns
-exists only because the useless restrictions to do some task using a
-certain programming language and/or a certain programming technique.
-we will avoid design patterns as possible as we can. because of the
-nature of c++, we can usually find a better solution using another
-programming technique rather than falling back to design patterns.
-on the other hand, we may use common c++ idioms when appropriate.
+and/or general programming etc when it's the most suitable, simple and
+elegant solution to the problem. design patterns exists only because
+the useless restrictions to do some task using a certain programming
+language and/or a certain programming technique. we will avoid design
+patterns as possible as we can. because of the nature of c++, we can
+usually find a better solution using another programming technique
+rather than falling back to design patterns. on the other hand, we may
+use common c++ idioms when appropriate.
 
 ### memory management in c++
 in c++, memory management is all about ownership.
